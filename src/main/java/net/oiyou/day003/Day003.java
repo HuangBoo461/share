@@ -1,4 +1,4 @@
-package net.oiyou;
+package net.oiyou.day003;
 
 import java.util.HashMap;
 import java.util.Map;

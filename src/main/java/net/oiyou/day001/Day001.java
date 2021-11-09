@@ -1,4 +1,4 @@
-package net.oiyou;
+package net.oiyou.day001;
 
 public class Day001 {
     public int[] twoSum(int[] nums, int target) {

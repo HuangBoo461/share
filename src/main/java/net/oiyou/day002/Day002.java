@@ -1,4 +1,4 @@
-package net.oiyou;
+package net.oiyou.day002;
 
 public class Day002 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
