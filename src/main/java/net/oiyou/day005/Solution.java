@@ -1,4 +1,4 @@
-package net.oiyou.dayy005;
+package net.oiyou.day005;
 
 public class Solution {
     public String longestPalindrome(String s) {
